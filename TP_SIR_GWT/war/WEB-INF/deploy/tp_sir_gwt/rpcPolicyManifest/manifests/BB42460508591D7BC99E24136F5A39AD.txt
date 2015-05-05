@@ -1,0 +1,2 @@
+serviceClass: fr.istic.gwttest.client.PersonService
+path: B6C09123F24331D06C7B04F617DBF634.gwt.rpc
